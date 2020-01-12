@@ -51,6 +51,11 @@ disabled people.
 
 
 ## 2. HARDWARE DESIGN
+
+
+
+
+
 Fig -1: System Block diagram
 
 It has basically an EEG sensor circuit and a
@@ -61,7 +66,7 @@ using amplifiers .The filtered and amplified signal is fed to a
 microcontroller (Nano board).The microcontroller converts
 the analog signal to digital signal. The components used in
 our hardware are:
-###A. Electrodes
+### A. Electrodes
 
 We will be using dry non-invasive AgCl disposable clinical
 electrode. We are using three electrode scheme. These three
