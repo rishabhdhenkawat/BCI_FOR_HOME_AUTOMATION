@@ -52,11 +52,11 @@ disabled people.
 
 ## 2. HARDWARE DESIGN
 
+![https://github.com/rishabhdhenkawat/BCI_FOR_HOME_AUTOMATION/blob/master/brain_controlled_home_automation_block_diagram.jpg](Fig -1: System Block diagram)
 
 
 
 
-Fig -1: System Block diagram
 
 It has basically an EEG sensor circuit and a
 microcontroller.EEG signal is acquired using electrodes. Our
