@@ -97,7 +97,8 @@ process it according to the working specified.
 #### 2. The Arduino will send the control signal to the device that
 is to be controlled.
 
-Fig -2: Circuit Diagram
+![](https://user-images.githubusercontent.com/44580998/72217822-530ddb80-3559-11ea-88d9-e757c181ccc4.PNG)
+
 
 
 #### 3. WORKING
