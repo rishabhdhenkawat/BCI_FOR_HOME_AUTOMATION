@@ -54,7 +54,7 @@ disabled people.
 
 ![BLOCK DIAGRAM](https://github.com/rishabhdhenkawat/BCI_FOR_HOME_AUTOMATION/blob/master/brain_controlled_home_automation_block_diagram.jpg)
 
-
+######BLOCK DIAGRAM
 
 It has basically an EEG sensor circuit and a
 microcontroller.EEG signal is acquired using electrodes. Our
@@ -64,7 +64,7 @@ using amplifiers .The filtered and amplified signal is fed to a
 microcontroller (Nano board).The microcontroller converts
 the analog signal to digital signal. The components used in
 our hardware are:
-### A. Electrodes
+#### A. Electrodes
 
 We will be using dry non-invasive AgCl disposable clinical
 electrode. We are using three electrode scheme. These three
@@ -72,7 +72,7 @@ electrodes are placed in three particular positions in our
 forehead where we will obtain the electrical signals
 associated with our eyes.
 
-### B.IC AD8232
+#### B.IC AD8232
 
 The AD8232 is an integrated signal conditioning block for
 ECG and other bio potential measurement applications. It is
@@ -86,15 +86,15 @@ potential. This filter is tightly coupled with the
 instrumentation architecture of the amplifier to allow both
 large gain and high-pass filtering in a single stage.
 
-### C. Micro controller
+#### C. Micro controller
 
 We use ARDUINO UNO board for it’s feasibility and
 simplicity. It employs ATMEGA328 microcontroller. It is
 programmed in embedded C using Arduino IDE.  The Arduino will do the following
 operations:
-####1. Will take the analog signal data from the ICAD8238 and
+#### 1. Will take the analog signal data from the ICAD8238 and
 process it according to the working specified.
-####2. The Arduino will send the control signal to the device that
+#### 2. The Arduino will send the control signal to the device that
 is to be controlled.
 
 Fig -2: Circuit Diagram
