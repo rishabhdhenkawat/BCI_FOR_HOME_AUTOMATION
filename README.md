@@ -52,7 +52,7 @@ disabled people.
 
 ## 2. HARDWARE DESIGN
 
-![https://github.com/rishabhdhenkawat/BCI_FOR_HOME_AUTOMATION/blob/master/brain_controlled_home_automation_block_diagram.jpg](Fig -1: System Block diagram)
+! [https://github.com/rishabhdhenkawat/BCI_FOR_HOME_AUTOMATION/blob/master/brain_controlled_home_automation_block_diagram.jpg](Fig -1: System Block diagram)
 
 
 
