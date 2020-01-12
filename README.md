@@ -54,7 +54,7 @@ disabled people.
 
 ![BLOCK DIAGRAM](https://github.com/rishabhdhenkawat/BCI_FOR_HOME_AUTOMATION/blob/master/brain_controlled_home_automation_block_diagram.jpg)
 
-######BLOCK DIAGRAM
+###### BLOCK DIAGRAM
 
 It has basically an EEG sensor circuit and a
 microcontroller.EEG signal is acquired using electrodes. Our
@@ -92,9 +92,9 @@ We use ARDUINO UNO board for it’s feasibility and
 simplicity. It employs ATMEGA328 microcontroller. It is
 programmed in embedded C using Arduino IDE.  The Arduino will do the following
 operations:
-#### 1. Will take the analog signal data from the ICAD8238 and
+1. Will take the analog signal data from the ICAD8238 and
 process it according to the working specified.
-#### 2. The Arduino will send the control signal to the device that
+2. The Arduino will send the control signal to the device that
 is to be controlled.
 
 ![](https://user-images.githubusercontent.com/44580998/72217822-530ddb80-3559-11ea-88d9-e757c181ccc4.PNG)
@@ -130,7 +130,7 @@ connected to relay 1 will operate.
 The above logic can also be implemented using machine
 learning, which will greatly reduce the error of the system.
 Fig -3: Hardware
-#### 4. CONCLUSIONS
+#### CONCLUSIONS
 It is quite probable that in the future most of our appliances
 will be controlled directly through our wishes or the brain
 and this project stands as an affirmation to that vision.
