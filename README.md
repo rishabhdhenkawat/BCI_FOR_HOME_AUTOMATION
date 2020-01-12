@@ -1,6 +1,6 @@
 # BCI_FOR_HOME_AUTOMATION
 
-##Abstract 
+## Abstract 
 
 Brain Computer Interface (BCI) is the direct
 connection between the computers and human brain. The BCI
@@ -19,7 +19,7 @@ signals are decoded and are used to switch on a device.
 Key Words: Brain computer interface, Automation, EEG,
 Arduino, Brainwaves
 
-##1. INTRODUCTION
+## 1. INTRODUCTION
 
 Amazingly, nothing in the world can be compared with the
 human brain. Our Human Brain is highly complex and is
@@ -50,7 +50,7 @@ disabled people.
 
 
 
-##2. HARDWARE DESIGN
+## 2. HARDWARE DESIGN
 Fig -1: System Block diagram
 
 It has basically an EEG sensor circuit and a
@@ -69,7 +69,7 @@ electrodes are placed in three particular positions in our
 forehead where we will obtain the electrical signals
 associated with our eyes.
 
-###B.IC AD8232
+### B.IC AD8232
 
 The AD8232 is an integrated signal conditioning block for
 ECG and other bio potential measurement applications. It is
@@ -83,7 +83,7 @@ potential. This filter is tightly coupled with the
 instrumentation architecture of the amplifier to allow both
 large gain and high-pass filtering in a single stage.
 
-###C. Micro controller
+### C. Micro controller
 
 We use ARDUINO UNO board for it’s feasibility and
 simplicity. It employs ATMEGA328 microcontroller. It is
@@ -97,7 +97,7 @@ is to be controlled.
 Fig -2: Circuit Diagram
 
 
-####3. WORKING
+#### 3. WORKING
 Our BCI system captures the electrical signals from the
 forehead position. The electrodes will then send the signals
 to the amplifier and filter circuit wherein the signal is
@@ -126,7 +126,7 @@ connected to relay 1 will operate.
 The above logic can also be implemented using machine
 learning, which will greatly reduce the error of the system.
 Fig -3: Hardware
-####4. CONCLUSIONS
+#### 4. CONCLUSIONS
 It is quite probable that in the future most of our appliances
 will be controlled directly through our wishes or the brain
 and this project stands as an affirmation to that vision.
